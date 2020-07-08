@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on C# apps for the IoT space.
+- 🌱 I’m currently learning Ruby on Rails.
+- 👯 I’m looking to collaborate on data projects (especially for scientific research) and civic open source code.
+- 🤔 I’m looking for help with how to add CI/CD to my projects with as little pain as possible. (Love Netlify for my blog!)
+- 💬 Ask me about Hacktoberfest, NaNoGenMo, Advent of Code...or less tech-oriented - hiking, cooking, and my favorite tv shows.
+- 😄 Pronouns: She/Her
+
 <!--
 **keheitz/keheitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on C# apps for the IoT space.
+- 🔭 I’m currently working on the integrations team at Drip!
 - 🌱 I’m currently learning Ruby on Rails.
 - 👯 I’m looking to collaborate on data projects (especially for scientific research) and civic open source code.
 - 🤔 I’m looking for help with how to add CI/CD to my projects with as little pain as possible. (Love Netlify for my blog!)

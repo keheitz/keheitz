@@ -3,7 +3,7 @@
 I'm a former educator turned software engineer. You'll find a bunch of side projects here in various degrees of completion; I love taking spreadsheet problems from my family and friends and creating something more streamlined that saves them time. I also try to do Advent of Code every year, although I have yet to finish!
 
 - 💕 I love integrations problems
-- 📖 Currently reading "Kill It With Fire: Manage Aging Computer Systems (and Future Proof Modern Ones)"
+- 📖 Currently reading "Unraveling: What I learned about life while shearing sheep, dyeing wool, and making the world's ugliest sweater"
 - 💬 Ask me about cross-stitch and blackwork, API design, and my favorite tv shows
 - 😄 Pronouns: She/Her
 

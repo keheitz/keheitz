@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a former educator turned software engineer. You'll find a bunch of side projects here in various degrees of completion; I love taking spreadsheet problems from my family and friends and creating something more streamlined that saves them time. I also try to do Advent of Code every year, although I have yet to finish!
+I'm a former educator turned software engineer. You'll find a bunch of side projects here in various degrees of completion; I love taking spreadsheet problems from my family and friends and creating something more streamlined that saves them time.
 
 - 💕 I love integrations problems
 - 📖 Currently reading "Unraveling: What I learned about life while shearing sheep, dyeing wool, and making the world's ugliest sweater"

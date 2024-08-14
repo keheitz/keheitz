@@ -3,7 +3,7 @@
 I'm a former educator turned software engineer. You'll find a bunch of side projects here in various degrees of completion; I love taking spreadsheet problems from my family and friends and creating something more streamlined that saves them time.
 
 - 💕 I love integrations problems
-- 📖 Currently reading "Give and Take: Why Helping Others Drives Our Success"
+- 📖 Currently reading "Algorithms to Live By: The Computer Science of Human Decisions"
 - 💬 Ask me about cross-stitch and blackwork, API design, and my favorite tv shows
 - 😄 Pronouns: She/Her
 

@@ -1,11 +1,13 @@
-### Hi there 👋
+## Hi there
+I'm a staff software engineer and former educator with a passion for solving complex integration and data problems. I love building systems that connect disparate pieces of technology. I'm a language enthusiast, and have written production code in C#, Python, Ruby, JavaScript/TypeScript, Go, and PHP. 
+### What you'll find here
+A mix of side projects in various stages of completion—I love taking real-world problems from family, friends, and my own work and building more streamlined solutions. Current interests include laboratory information management systems, campaign technology, and anything involving database optimization or complex data workflows.
+### Currently
+* Reading: "Possible Minds: 25 Ways of Looking At AI"
+* Working on: Shipping logistics systems, multi-tenant architectures, and search problems
+* Always interested in: API design, database advancements, fiber arts, and good TV recommendations
 
-I'm a former educator turned software engineer. You'll find a bunch of side projects here in various degrees of completion; I love taking spreadsheet problems from my family and friends and creating something more streamlined that saves them time.
-
-- 💕 I love integrations problems
-- 📖 Currently reading "The Technology Trap: Capital, Labor, and Power in the Age of Automation"
-- 💬 Ask me about cross-stitch and blackwork, API design, and my favorite tv shows
-- 😄 Pronouns: She/Her
+#### Pronouns: She/Her
 
 <!--
 **keheitz/keheitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

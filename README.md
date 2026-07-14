@@ -11,6 +11,7 @@ I gave Claude this link [How to spot and magnify the powers of your engineering 
 ### Software Philosophy in Images
 <img width="310" height="413" alt="featre_bug" src="https://github.com/user-attachments/assets/3504675a-57ba-4759-8b4a-1e66fcba178d" />
 <img width="658" height="413" alt="image" src="https://github.com/user-attachments/assets/933951f0-f1c7-4e24-891b-5e8dfb3ce4be" />
+
 (I like all good quotes but the first and last here are the kinds of things I have said in a work meeting, and am likely to say again...)
 
 
